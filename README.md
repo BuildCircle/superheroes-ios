@@ -4,7 +4,7 @@ This is a simple app which should display a list of superheroes and some informa
 
 1. Run the app - there are multiple problems. Please investigate and make the minimal fixes to make the app run. Hint: you may need an api key from superheroapi.com
 
-2. Looking at the Main Activity - how can we improve this?
+2. Looking at the Main View - how can we improve this?
 
 3. Please refactor the Main Activity to make the code more testable and maintainable
 
