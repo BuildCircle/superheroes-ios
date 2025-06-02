@@ -6,7 +6,7 @@ This is a simple app which should display a list of superheroes and some informa
 
 2. Looking at the Main View - how can we improve this?
 
-3. Please refactor the Main Activity to make the code more testable and maintainable
+3. Please refactor the code to make the code more testable and maintainable
 
 4. Please add a couple of tests to ensure Superheros are marked correctly as fast (when speed is over 50), strong (when power is over 55) and smart (when intelligence is over 60)
 
